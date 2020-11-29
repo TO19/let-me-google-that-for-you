@@ -2,7 +2,7 @@
   "name": "let-me-google-that-for-you",
   "displayName": "Let me google that for you",
   "description": "Simple extension to search selected text in your default browser.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "TX19",
     "url": "https://www.github.com/TO19"
