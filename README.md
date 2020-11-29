@@ -21,4 +21,3 @@ Then you can:
 
 - [ ] Add more search engines
 - [ ] Make test
-- [ ] 
