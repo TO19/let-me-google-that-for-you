@@ -1,5 +1,7 @@
 # Let me google that for you
 
+🤷‍♂️  [As the saying goes](https://en.wikipedia.org/wiki/RTFM#List_of_similar_initialisms) 🤷‍♂️
+
 Open your default browser to perform web search directly into VSCode by selecting code, errors, texts etc...
 
 This extension is inspirated by [Google-search extension](https://marketplace.visualstudio.com/items?itemName=kameshkotwani.google-search).
