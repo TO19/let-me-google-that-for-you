@@ -49,9 +49,11 @@ function stackOverflow(): any {
 
 function performSearch(searchEngine: string) {
   const selectedText = getSelectedText();
+
   if (!selectedText) {
     return;
   }
+
   const searchTerm = encodeURI(selectedText);
   const configs = workspace.getConfiguration(
     Google.name === searchEngine ? Google.section : StackOverflow.section
