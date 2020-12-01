@@ -60,7 +60,7 @@
       {
         "when": "editorHasSelection",
         "command": "extension.letMeStackItForYou",
-        "key": "shift+ctrl+enter",
+        "key": "shift+ctrl+w",
         "mac": "shift+ctrl+enter"
       }
     ],
